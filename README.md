@@ -3,7 +3,7 @@ Thanks for stopping by, I'm a Full Stack JavaScript developer who has joined the
 
 You can read blog posts on my path through this process on [my personal website](https://www.built.kiwi).
 
-If you'd like to work with me you can find my CV here or connect with me on [LinkedIn here](https://www.linkedin.com/in/james-built-630102173/).
+If you'd like to work with me you can find my [CV here](j-built-CV.pdf) or connect with me on [LinkedIn here](https://www.linkedin.com/in/james-built-630102173/).
 
 The pinned projects on my profile are those I have worked on throughout my journey to web development at the Enspiral Dev Academy bootcamp. The following is a timeline of how my code progressed through the bootcamp:
 
